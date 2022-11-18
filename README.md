@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levhi, I am a student web development
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning PHP / HTML/ CSS / JS / MYSQL / C# / LUA 
+- 🌱 I’m currently learning HTML / CSS / PHP / JS / MYSQL / C# / LUA 
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me https://levikoster.nl
 
